@@ -13,3 +13,6 @@ spring:
     name: eureka-server
   profiles:
     active: dev
+
+logging:
+  config: classpath:logback-boot.xml
