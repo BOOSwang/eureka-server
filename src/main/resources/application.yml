@@ -15,4 +15,4 @@ spring:
     active: dev
 
 logging:
-  config: classpath:logback-boot.xml
+  config: classpath:logback.xml
